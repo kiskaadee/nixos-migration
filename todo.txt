@@ -1,0 +1,21 @@
+(A) Create backups of critical files +pre-migration @desktop
+(A) Verify NixOS ISO integrity +pre-migration @desktop
+(A) Flash NixOS installer USB +pre-migration @desktop
+(B) Boot NixOS live environment +installation @desktop
+(B) Inspect partition layout +installation @desktop
+(B) Decide final partition strategy +installation @desktop
+(B) Install NixOS +installation @desktop
+(B) Configure networking +installation @desktop
+(C) Install Git +setup @desktop
+(C) Install GitHub CLI +setup @desktop
+(C) Install Zed +setup @desktop
+(C) Install Zen Browser +setup @desktop
+(C) Install UV +setup @desktop
+(C) Install Docker/Docker Compose +setup @desktop
+(C) Install Antigravity CLI +setup @desktop
+(D) Learn Home Manager basics +nix @laptop
+(D) Learn flake basics +nix @desktop
+(E) Audit bash-custom repository +shell @laptop
+(E) Decide Bash vs Zsh +shell @laptop
+(E) Configure Hyprland +setup @desktop
+(A) Create backup inventory document +pre-migration @desktop

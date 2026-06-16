@@ -1,0 +1,2 @@
+ML4W Dotfiles Calendar App	com.ml4w.calendar	2.0.1	master	system
+Hyprland Settings	com.ml4w.hyprlandsettings	2.5.1	master	system

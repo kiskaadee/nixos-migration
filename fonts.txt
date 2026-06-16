@@ -1,0 +1,1569 @@
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond Med
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond Black
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM ExtraLight
+OverpassM Nerd Font Mono,OverpassM Nerd Font Mono Light
+CaskaydiaMono Nerd Font Mono,CaskaydiaMono NFM
+ProggyClean Nerd Font Propo
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Medium Obl
+M+CodeLat60 Nerd Font Propo
+Noto Sans Gurmukhi
+FiraCode Nerd Font,FiraCode Nerd Font Ret
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd Med Obl
+M+1Code Nerd Font Mono,M+1Code Nerd Font Mono Light
+Noto Sans Arabic
+JetBrainsMono Nerd Font,JetBrainsMono NF,JetBrainsMono NF Medium
+UbuntuMono Nerd Font
+M+1 Nerd Font,M+1 Nerd Font ExtBd
+Noto Serif Bengali
+Noto Sans Bengali
+M+2 Nerd Font,M+2 Nerd Font Med
+LiterationMono Nerd Font Mono
+Noto Sans Malayalam,Noto Sans Malayalam Light
+Cousine Nerd Font Mono
+Hasklug Nerd Font,Hasklug Nerd Font SemBd
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd ExtBd Obl
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Thin
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond ExtBd
+M+CodeLat50 Nerd Font Propo
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Med
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd ExtBd Obl
+Noto Serif Makasar
+Standard Symbols PS
+OpenDyslexic Nerd Font
+DejaVuSansM Nerd Font Propo
+Noto Sans Gurmukhi,Noto Sans Gurmukhi Medium
+LiterationMono Nerd Font Propo
+Noto Sans Hebrew
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Obl
+MonaspiceRn Nerd Font Mono,MonaspiceRn NFM
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Thin
+Noto Sans Lepcha
+Noto Sans Gujarati UI,Noto Sans Gujarati UI Light
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP UltraBlack
+Noto Sans Kannada,Noto Sans Kannada Medium
+Lilex Nerd Font Propo,Lilex Nerd Font Propo Medium
+Noto Sans Thaana,Noto Sans Thaana Light
+NotoSansM Nerd Font Propo,NotoSansM NFP
+Noto Serif Devanagari
+Noto Serif Khitan Small Script
+Noto Sans Tamil,Noto Sans Tamil Black
+Noto Sans Ogham
+GeistMono Nerd Font Propo,GeistMono NFP
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond Light
+Noto Serif Tamil,Noto Serif Tamil Thin
+GohuFont 14 Nerd Font Mono
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF Obl
+M+1 Nerd Font,M+1 Nerd Font ExtLt
+GeistMono Nerd Font,GeistMono NF,GeistMono NF Medium
+Noto Sans SignWriting
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP ExtraLight
+Noto Sans Thai,Noto Sans Thai Thin
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond Light
+Noto Serif Dogra
+MonaspiceNe Nerd Font Propo,MonaspiceNe NFP
+FiraCode Nerd Font Mono,FiraCode Nerd Font Mono SemBd
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd ExtBd
+Noto Serif Bengali,Noto Serif Bengali Thin
+ZedMono Nerd Font Propo,ZedMono NFP
+FiraCode Nerd Font Propo
+DejaVu Math TeX Gyre
+Iosevka Nerd Font,Iosevka NF,Iosevka NF SemiBold Obl
+MonaspiceXe Nerd Font,MonaspiceXe NF
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Thin Obl
+URW Gothic
+BlexMono Nerd Font,BlexMono Nerd Font Text
+Noto Sans Buginese
+Hasklug Nerd Font Mono
+InconsolataGo Nerd Font
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP,JetBrainsMono NFP ExtraBold
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Obl
+Noto Sans Tai Le
+Overpass Nerd Font Propo,Overpass Nerd Font Propo Heavy
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond ExtBd
+BigBlueTermPlus Nerd Font Mono
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond Light
+BlexMono Nerd Font Propo
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF Light Obl
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond Thin
+RecMonoSmCasual Nerd Font
+AtkynsonMono Nerd Font,AtkynsonMono NF,AtkynsonMono NF Light
+MonaspiceAr Nerd Font,MonaspiceAr NF,MonaspiceAr NF Medium
+Noto Sans Syriac Western,Noto Sans Syriac Western Black
+AurulentSansM Nerd Font Propo
+MonaspiceRn Nerd Font,MonaspiceRn NF,MonaspiceRn NF Light
+Noto Sans Sinhala,Noto Sans Sinhala Black Condensed
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond Thin
+Noto Sans Sinhala,Noto Sans Sinhala Thin Condensed
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM Light
+Noto Naskh Arabic
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM SemiBold Obl
+MesloLGSDZ Nerd Font Mono
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Light
+AurulentSansM Nerd Font Mono
+ProFontWindows Nerd Font Mono
+Noto Serif
+Noto Sans Kayah Li
+GeistMono Nerd Font,GeistMono NF,GeistMono NF UltraLight
+Cousine Nerd Font Propo
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF ExtraLight Obl
+Noto Serif Khmer,Noto Serif Khmer Thin
+Noto Sans Tai Tham
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM SemiLight
+Noto Sans Old North Arabian
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Med
+Noto Sans Symbols,Noto Sans Symbols Light
+Noto Sans Tifinagh APT
+OpenDyslexicAlt Nerd Font Propo
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond
+FiraCode Nerd Font,FiraCode Nerd Font Light
+MonaspiceXe Nerd Font Mono,MonaspiceXe NFM,MonaspiceXe NFM Medium
+UbuntuMono Nerd Font Propo
+Monoid Nerd Font Propo,Monoid Nerd Font Propo Retina
+MonaspiceAr Nerd Font Propo,MonaspiceAr NFP
+Noto Sans Tifinagh
+Hasklug Nerd Font,Hasklug Nerd Font Med
+Noto Sans Psalter Pahlavi,Noto Sans PsaPahlavi
+SauceCodePro Nerd Font Mono,SauceCodePro NFM
+VictorMono Nerd Font,VictorMono NF,VictorMono NF ExtraLight
+Noto Serif Sinhala,Noto Serif Sinhala Light
+Noto Sans Ethiopic,Noto Sans Ethiopic Medium
+Noto Serif Malayalam
+Noto Sans Thaana
+Hasklug Nerd Font Mono,Hasklug Nerd Font Mono ExtLt
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond ExtLt
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Medium Obl
+Noto Sans Devanagari,Noto Sans Devanagari Thin
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Heavy Obl
+Noto Sans Medefaidrin
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP SemiBold Obl
+SauceCodePro Nerd Font Propo,SauceCodePro NFP,SauceCodePro NFP Black
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond Med
+Lilex Nerd Font Propo,Lilex Nerd Font Propo Thin
+M+1Code Nerd Font,M+1Code Nerd Font SemBd
+Monoid Nerd Font,Monoid Nerd Font Retina
+BlexMono Nerd Font Propo,BlexMono Nerd Font Propo Light
+Noto Sans Tifinagh Air
+Adwaita Mono
+Noto Music
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond
+Noto Serif Malayalam,Noto Serif Malayalam Light
+Noto Sans Gurmukhi UI,Noto Sans Gurmukhi UI Medium
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Heavy Obl
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond
+MonaspiceKr Nerd Font,MonaspiceKr NF,MonaspiceKr NF Medium
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP ExtraBold
+Noto Serif NP Hmong
+Material Icons Sharp
+Noto Sans Cherokee,Noto Sans Cherokee Light
+Noto Sans Mongolian
+CommitMono Nerd Font Mono
+Noto Sans Vithkuqi,Noto Sans Vithkuqi Medium
+RecMonoCasual Nerd Font
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF,JetBrainsMonoNL NF Medium
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF Light
+Noto Serif Kannada,Noto Serif Kannada Medium
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Thin Obl
+Noto Serif Ethiopic,Noto Serif Ethiopic Light
+Noto Sans Lao Looped
+M+1Code Nerd Font Propo,M+1Code Nerd Font Propo Light
+Noto Sans Balinese
+RecMonoLinear Nerd Font Propo
+Noto Sans Sinhala
+M+CodeLat60 Nerd Font,M+CodeLat60 Nerd Font Med
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd Light Obl
+Noto Kufi Arabic,Noto Kufi Arabic Light
+Noto Serif Toto
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF SemiBold
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond ExtBd
+M+2 Nerd Font,M+2 Nerd Font SemBd
+SauceCodePro Nerd Font Mono,SauceCodePro NFM,SauceCodePro NFM ExtraLight
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Light Obl
+Noto Serif Gurmukhi
+DroidSansM Nerd Font
+Noto Sans Brahmi
+Noto Sans Bengali UI
+CaskaydiaMono Nerd Font Mono,CaskaydiaMono NFM,CaskaydiaMono NFM Light
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond Light
+Noto Serif Lao,Noto Serif Lao Thin
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond ExtLt
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond ExtLt
+Noto Sans Adlam
+BlexMono Nerd Font Mono,BlexMono Nerd Font Mono Thin
+Noto Sans Tamil Supplement
+Nimbus Roman
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Medium
+RobotoMono Nerd Font Propo
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM ExtraLight Obl
+Noto Serif Hentaigana,Noto Serif Hentaigana Black
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF
+Noto Sans Chakma
+Noto Sans Tifinagh Hawad
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Light
+M+1Code Nerd Font Mono,M+1Code Nerd Font Mono ExtLt
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond ExtBd
+AdwaitaMono Nerd Font
+Noto Sans Tirhuta
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Thin
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond
+Noto Sans Gujarati,Noto Sans Gujarati Thin
+Noto Serif Tamil,Noto Serif Tamil Medium
+Noto Serif Ottoman Siyaq
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Heavy
+Noto Sans Malayalam,Noto Sans Malayalam Medium
+BlexMono Nerd Font,BlexMono Nerd Font Thin
+Noto Serif Hebrew,Noto Serif Hebrew Black
+Noto Sans Tifinagh Agraw Imazighen
+M+CodeLat50 Nerd Font Mono
+M+1 Nerd Font,M+1 Nerd Font Med
+Noto Naskh Arabic UI,Noto Naskh Arabic UI Medium
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond Med
+ShureTechMono Nerd Font
+RobotoMono Nerd Font Mono,RobotoMono Nerd Font Mono SmBd
+Noto Sans Sinhala UI,Noto Sans Sinhala UI Black
+Noto Serif Gujarati,Noto Serif Gujarati Light
+Agave Nerd Font Mono
+Noto Sans Cherokee
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond Light
+BlexMono Nerd Font Mono
+ZedMono Nerd Font,ZedMono NF,ZedMono NF ExtraBold
+GohuFont uni14 Nerd Font Propo
+BlexMono Nerd Font Mono,BlexMono Nerd Font Mono SemiBold
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd Med Obl
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP ExtraBold Obl
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Thin
+Noto Serif Sinhala,Noto Serif Sinhala Medium
+BigBlueTerm437 Nerd Font
+FiraCode Nerd Font,FiraCode Nerd Font Med
+Overpass Nerd Font,Overpass Nerd Font SemBd
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Med
+IntoneMono Nerd Font Propo,IntoneMono NFP
+Noto Serif Armenian,Noto Serif Armenian Light
+Noto Sans Armenian,Noto Sans Armenian Black
+FiraCode Nerd Font Propo,FiraCode Nerd Font Propo Med
+BigBlueTermPlus Nerd Font
+D2CodingLigature Nerd Font
+NotoSansM Nerd Font Mono,NotoSansM NFM
+Hasklug Nerd Font
+M+1 Nerd Font,M+1 Nerd Font Light
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM SemiBold Obl
+Arimo Nerd Font Propo
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Heavy Obl
+Noto Sans Tifinagh Ghat
+AnonymicePro Nerd Font
+Noto Serif Vithkuqi
+Noto Sans Javanese
+Noto Rashi Hebrew,Noto Rashi Hebrew Med
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Medium
+Noto Serif Thai
+Noto Sans Telugu,Noto Sans Telugu Black
+Noto Sans Syriac,Noto Sans Syriac Black
+Noto Sans Sora Sompeng,Noto Sans Sora Sompeng Medium
+Noto Sans Tamil UI,Noto Sans Tamil UI Black
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd Obl
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Light
+Noto Sans Chorasmian
+Noto Serif Lao
+Noto Sans Multani
+MonaspiceNe Nerd Font,MonaspiceNe NF
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond Black
+CaskaydiaMono Nerd Font,CaskaydiaMono NF,CaskaydiaMono NF SemiBold
+CommitMono Nerd Font Propo
+M+2 Nerd Font,M+2 Nerd Font Thin
+Noto Serif Yezidi
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtBd
+DejaVu Sans Mono
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemBd
+Noto Sans Shavian
+Hurmit Nerd Font Mono
+M+2 Nerd Font,M+2 Nerd Font Black
+AtkynsonMono Nerd Font Mono,AtkynsonMono NFM
+BlexMono Nerd Font,BlexMono Nerd Font Light
+Noto Sans Telugu UI,Noto Sans Telugu UI Thin
+MonaspiceAr Nerd Font Propo,MonaspiceAr NFP,MonaspiceAr NFP Medium
+GoMono Nerd Font
+Noto Serif Thai,Noto Serif Thai Medium
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond SemBd
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF,JetBrainsMonoNL NF Thin
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd Med Obl
+ProFont IIx Nerd Font
+Mononoki Nerd Font Mono
+Noto Serif Georgian,Noto Serif Georgian Bk
+Noto Serif Kannada,Noto Serif Kannada Black
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP Thin
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP ExtraLight
+Noto Sans Ethiopic,Noto Sans Ethiopic Black
+Noto Sans Gunjala Gondi
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Medium Obl
+Noto Sans Malayalam UI,Noto Sans Malayalam UI Light
+Lilex Nerd Font Mono,Lilex Nerd Font Mono Thin
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtLt
+Hasklug Nerd Font Mono,Hasklug Nerd Font Mono Light
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond Med
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Medium
+Hasklug Nerd Font Propo
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd Med
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP,JetBrainsMono NFP Thin
+Font Awesome 7 Brands
+Noto Sans Balinese,Noto Sans Balinese Medium
+iMWritingMono Nerd Font Propo
+Font Awesome 7 Free,Font Awesome 7 Free Solid
+Noto Sans Georgian,Noto Sans Georgian Medium
+Overpass Nerd Font Propo
+CaskaydiaCove Nerd Font,CaskaydiaCove NF
+BigBlueTerm437 Nerd Font Mono
+Noto Sans Sinhala,Noto Sans Sinhala Black
+Noto Sans Bengali UI,Noto Sans Bengali UI Black
+MonaspiceXe Nerd Font Propo,MonaspiceXe NFP,MonaspiceXe NFP Medium
+LiterationMono Nerd Font
+MonaspiceAr Nerd Font Mono,MonaspiceAr NFM,MonaspiceAr NFM Light
+OverpassM Nerd Font Propo,OverpassM Nerd Font Propo SemBd
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP Medium Obl
+CaskaydiaMono Nerd Font Propo,CaskaydiaMono NFP,CaskaydiaMono NFP SemiBold
+Noto Serif Georgian,Noto Serif Georgian Md
+M+1 Nerd Font
+Noto Serif Georgian,Noto Serif Georgian Lt
+ProFont IIx Nerd Font Propo
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM UltraLight
+Fira Sans,Fira Sans SemiBold
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Medium Obl
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Obl
+Noto Sans Mandaic
+Lilex Nerd Font,Lilex Nerd Font Medium
+Noto Sans Bengali,Noto Sans Bengali Light
+M+CodeLat60 Nerd Font Mono,M+CodeLat60 Nerd Font Mono Light
+Monofur Nerd Font
+MonaspiceAr Nerd Font,MonaspiceAr NF
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond SemBd
+Noto Serif Ethiopic,Noto Serif Ethiopic Thin
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM,JetBrainsMonoNL NFM Medium
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP Light
+M+1Code Nerd Font Propo
+Monoid Nerd Font Mono
+Noto Sans Telugu UI,Noto Sans Telugu UI Black
+3270 Nerd Font Mono,3270 Nerd Font Mono Cond
+Noto Serif Old Uyghur
+Noto Sans Tamil,Noto Sans Tamil Medium
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM,JetBrainsMonoNL NFM ExtraLight
+Noto Sans Symbols 2
+RecMonoCasual Nerd Font Propo
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd Light
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Thin
+ProggyClean CE Nerd Font
+Inconsolata LGC Nerd Font
+Noto Sans Kharoshthi
+Noto Serif Georgian,Noto Serif Georgian Th
+NotoSerif Nerd Font Propo,NotoSerif NFP
+Tinos Nerd Font
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond Black
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond SemBd
+Noto Sans Masaram Gondi
+CodeNewRoman Nerd Font Mono
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Med
+Noto Sans Tamil,Noto Sans Tamil Thin
+M+CodeLat60 Nerd Font,M+CodeLat60 Nerd Font Light
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Heavy Obl
+Fira Sans,Fira Sans Thin
+M+CodeLat50 Nerd Font,M+CodeLat50 Nerd Font ExtLt
+Noto Sans Devanagari UI,Noto Sans Devanagari UI Black
+Hasklug Nerd Font Propo,Hasklug Nerd Font Propo Black
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP ExtraLight Obl
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF ExtraBold Obl
+Noto Sans Old Sogdian
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP SemiBold
+Noto Serif Gujarati,Noto Serif Gujarati Medium
+MonaspiceKr Nerd Font Propo,MonaspiceKr NFP,MonaspiceKr NFP Light
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP ExtraLight Obl
+CaskaydiaMono Nerd Font,CaskaydiaMono NF,CaskaydiaMono NF Light
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond ExtLt
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM SemiBold
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond SemBd
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond Light
+Noto Serif Gujarati,Noto Serif Gujarati Thin
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond SemBd
+MonaspiceRn Nerd Font Propo,MonaspiceRn NFP,MonaspiceRn NFP Medium
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Light Obl
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Thin
+Noto Sans Old Persian
+FiraCode Nerd Font
+Noto Sans Canadian Aboriginal,Noto Sans Canadian Aboriginal Thin
+BigBlueTermPlus Nerd Font Propo
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM ExtraLight
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Black
+ProggyCleanSZ Nerd Font Mono
+Noto Sans Tamil UI
+SauceCodePro Nerd Font,SauceCodePro NF,SauceCodePro NF ExtraLight
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond ExtBd
+ProggyClean Nerd Font Mono
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond Thin
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Light
+Noto Sans Cham
+Noto Sans Devanagari,Noto Sans Devanagari Black
+Noto Sans Telugu UI,Noto Sans Telugu UI Medium
+Noto Sans Gurmukhi,Noto Sans Gurmukhi Light
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond Black
+Arimo Nerd Font
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Medium Obl
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Obl
+M+CodeLat50 Nerd Font Mono,M+CodeLat50 Nerd Font Mono Light
+Lilex Nerd Font,Lilex Nerd Font ExtraLight
+MesloLGS Nerd Font
+Ubuntu Nerd Font Propo,Ubuntu Nerd Font Propo Light
+Noto Serif Gurmukhi,Noto Serif Gurmukhi Medium
+Noto Serif Test
+Noto Sans Arabic UI
+M+CodeLat60 Nerd Font Mono
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Light
+Noto Sans Tamil UI,Noto Sans Tamil UI Medium
+Noto Serif Lao,Noto Serif Lao Light
+Noto Serif Bengali,Noto Serif Bengali Black
+Noto Sans Bhaiksuki
+MonaspiceXe Nerd Font Propo,MonaspiceXe NFP
+Hack Nerd Font Propo
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP SemiBold
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Light
+MonaspiceNe Nerd Font Mono,MonaspiceNe NFM
+GohuFont uni11 Nerd Font Propo
+Noto Sans Deseret
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Light
+Noto Sans Vithkuqi
+GohuFont uni14 Nerd Font Mono
+Noto Sans Runic
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond Black
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Thin Obl
+Noto Serif Kannada
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond Med
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd
+Hasklug Nerd Font Propo,Hasklug Nerd Font Propo SemBd
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond SemBd
+Nimbus Sans
+MonaspiceXe Nerd Font Mono,MonaspiceXe NFM,MonaspiceXe NFM Light
+M+2 Nerd Font Propo,M+2 Nerd Font Propo Light
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd Light Obl
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Thin
+Noto Serif Devanagari,Noto Serif Devanagari Light
+Noto Sans Gurmukhi UI
+0xProto Nerd Font Propo
+iMWritingMono Nerd Font
+Noto Sans Hebrew,Noto Sans Hebrew Light
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond Black
+Noto Sans Khojki
+Noto Serif Grantha
+Noto Fangsong KSS Rotated
+Noto Sans Lisu,Noto Sans Lisu Medium
+Noto Sans Buhid
+Noto Sans Armenian,Noto Sans Armenian Thin
+Noto Serif Telugu,Noto Serif Telugu Medium
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP,JetBrainsMonoNL NFP Medium
+GeistMono Nerd Font,GeistMono NF,GeistMono NF Thin
+Noto Sans Devanagari UI
+Noto Serif Telugu,Noto Serif Telugu Black
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond SemBd
+Noto Sans Tifinagh SIL
+MesloLGS Nerd Font Mono
+Noto Sans Malayalam UI,Noto Sans Malayalam UI Thin
+Agave Nerd Font
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM Light
+Hasklug Nerd Font,Hasklug Nerd Font Light
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Thin
+JetBrainsMono Nerd Font,JetBrainsMono NF,JetBrainsMono NF SemiBold
+Monofur Nerd Font Mono
+Iosevka Nerd Font,Iosevka NF,Iosevka NF ExtraLight Obl
+Noto Sans Sunuwar
+Noto Serif Display,Noto Serif Display Light
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM ExtraBold Obl
+MonaspiceNe Nerd Font Propo,MonaspiceNe NFP,MonaspiceNe NFP Light
+Noto Sans Malayalam UI
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM SemiBold
+Noto Sans Tai Viet
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond Med
+Lilex Nerd Font Propo,Lilex Nerd Font Propo ExtraLight
+Material Icons Two Tone
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond SemBd
+Fira Sans
+GohuFont uni11 Nerd Font
+Noto Sans Kannada,Noto Sans Kannada Black
+Noto Serif Tibetan,Noto Serif Tibetan Light
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Light
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond Black
+Noto Sans,Noto Sans Thin
+Noto Sans,Noto Sans Light
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM Light Obl
+Noto Sans Devanagari UI,Noto Sans Devanagari UI Medium
+M+CodeLat60 Nerd Font Propo,M+CodeLat60 Nerd Font Propo Light
+Noto Sans Cherokee,Noto Sans Cherokee Medium
+MonaspiceKr Nerd Font Mono,MonaspiceKr NFM,MonaspiceKr NFM Light
+Noto Serif Khmer,Noto Serif Khmer Light
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Light
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM ExtraBold Obl
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Med
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond Black
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond
+GoMono Nerd Font Propo
+ProFontWindows Nerd Font Propo
+Noto Sans Ethiopic,Noto Sans Ethiopic Thin
+Noto Sans Tifinagh Azawagh
+Overpass Nerd Font,Overpass Nerd Font Heavy
+Noto Sans Nag Mundari
+Noto Sans Meetei Mayek,Noto Sans Meetei Mayek Black
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM,JetBrainsMonoNL NFM ExtraBold
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond ExtBd
+Noto Sans Mayan Numerals
+Ubuntu
+Lilex Nerd Font
+VictorMono Nerd Font Propo,VictorMono NFP
+MartianMono Nerd Font,MartianMono NF,MartianMono NF Med
+Noto Sans Myanmar,Noto Sans Myanmar Medium
+AtkynsonMono Nerd Font Mono,AtkynsonMono NFM,AtkynsonMono NFM Light
+Noto Sans Georgian,Noto Sans Georgian Light
+FreeSerif
+Noto Sans Lao,Noto Sans Lao Medium
+Monoid Nerd Font Mono,Monoid Nerd Font Mono Retina
+Noto Rashi Hebrew,Noto Rashi Hebrew Thin
+Noto Sans Soyombo
+Noto Serif Armenian,Noto Serif Armenian Thin
+VictorMono Nerd Font,VictorMono NF,VictorMono NF SemiBold
+M+1 Nerd Font Propo,M+1 Nerd Font Propo Light
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Medium Obl
+M+CodeLat60 Nerd Font Mono,M+CodeLat60 Nerd Font Mono ExtLt
+MartianMono Nerd Font Propo,MartianMono NFP
+ShureTechMono Nerd Font Propo
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond Black
+M+CodeLat50 Nerd Font,M+CodeLat50 Nerd Font Med
+SauceCodePro Nerd Font Mono,SauceCodePro NFM,SauceCodePro NFM Light
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond Light
+Noto Traditional Nushu
+GoMono Nerd Font Mono
+Nimbus Mono PS
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM,JetBrainsMono NFM SemiBold
+Noto Sans Hatran
+Noto Serif Sinhala,Noto Serif Sinhala Thin
+M+1 Nerd Font,M+1 Nerd Font Thin
+Noto Sans Thai Looped,Noto Sans Thai Looped Black
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond Thin
+Noto Kufi Arabic,Noto Kufi Arabic Medium
+Iosevka Nerd Font Propo,Iosevka NFP
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM ExtraBold
+Symbols Nerd Font Mono
+InconsolataGo Nerd Font Propo
+NotoSans Nerd Font,NotoSans NF
+Noto Sans Syriac Eastern
+Noto Sans Telugu UI
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond Black
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM Medium
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond ExtLt
+Noto Sans Tagalog
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP
+Inconsolata Nerd Font Propo
+AnonymicePro Nerd Font Mono
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Obl
+IntoneMono Nerd Font Mono,IntoneMono NFM,IntoneMono NFM Light
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond Thin
+JetBrainsMono Nerd Font,JetBrainsMono NF,JetBrainsMono NF ExtraBold
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd ExtBd
+Ubuntu Condensed
+Noto Serif Thai,Noto Serif Thai Black
+Noto Sans Malayalam,Noto Sans Malayalam Black
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond Black
+Noto Sans Syriac,Noto Sans Syriac Thin
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Heavy
+RobotoMono Nerd Font
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemBd
+Noto Sans Osage
+Ubuntu Nerd Font
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd Med
+MonaspiceKr Nerd Font Propo,MonaspiceKr NFP,MonaspiceKr NFP Medium
+Noto Sans Tangsa
+RobotoMono Nerd Font Propo,RobotoMono Nerd Font Propo SmBd
+Noto Rashi Hebrew,Noto Rashi Hebrew Blk
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond Med
+SpaceMono Nerd Font
+RecMonoSmCasual Nerd Font Propo
+Noto Sans Gurmukhi UI,Noto Sans Gurmukhi UI Light
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Thin
+Noto Sans Thai,Noto Sans Thai Med
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Black
+DejaVu Sans,DejaVu Sans Light
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond Light
+Noto Sans Tamil,Noto Sans Tamil Light
+Noto Sans Batak
+Fira Sans,Fira Sans Black
+MartianMono Nerd Font,MartianMono NF,MartianMono NF Cond
+Noto Sans Glagolitic
+M+2 Nerd Font Propo
+M+CodeLat50 Nerd Font,M+CodeLat50 Nerd Font SemBd
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond SemBd
+NotoSans Nerd Font Propo,NotoSans NFP
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP ExtraBold
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond Light
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM Medium
+FiraMono Nerd Font Mono
+GohuFont 14 Nerd Font Propo
+iMWritingMono Nerd Font Mono
+ProFont IIx Nerd Font Mono
+Noto Serif Myanmar,Noto Serif Myanmar Black
+CommitMono Nerd Font
+Noto Sans Malayalam
+SauceCodePro Nerd Font,SauceCodePro NF,SauceCodePro NF Black
+Nimbus Sans Narrow
+CaskaydiaMono Nerd Font Mono,CaskaydiaMono NFM,CaskaydiaMono NFM SemiBold
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond Black
+MesloLGM Nerd Font Mono
+Noto Sans Tifinagh Ahaggar
+MonaspiceNe Nerd Font Mono,MonaspiceNe NFM,MonaspiceNe NFM Medium
+OverpassM Nerd Font,OverpassM Nerd Font Light
+Noto Traditional Nushu,Noto Traditional Nushu Light
+RecMonoDuotone Nerd Font Mono
+BlexMono Nerd Font Mono,BlexMono Nerd Font Mono ExtraLight
+VictorMono Nerd Font Mono,VictorMono NFM
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Medium
+JetBrainsMono Nerd Font,JetBrainsMono NF,JetBrainsMono NF Thin
+Iosevka Nerd Font,Iosevka NF
+Noto Sans Oriya
+M+CodeLat50 Nerd Font Mono,M+CodeLat50 Nerd Font Mono ExtLt
+URW Bookman
+M+1Code Nerd Font Propo,M+1Code Nerd Font Propo Med
+Noto Sans Canadian Aboriginal,Noto Sans Canadian Aboriginal Black
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Thin
+Noto Sans Khmer,Noto Sans Khmer Medium
+Noto Serif Gurmukhi,Noto Serif Gurmukhi Thin
+CaskaydiaMono Nerd Font,CaskaydiaMono NF,CaskaydiaMono NF ExtraLight
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond Med
+Noto Sans Thai,Noto Sans Thai Blk
+Agave Nerd Font Propo
+FiraMono Nerd Font Propo
+ShureTechMono Nerd Font Mono
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF ExtraLight
+BlexMono Nerd Font Propo,BlexMono Nerd Font Propo SemiBold
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd Obl
+Noto Sans Georgian
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond ExtBd
+Noto Serif Malayalam,Noto Serif Malayalam Medium
+Noto Sans Mahajani
+OverpassM Nerd Font Mono,OverpassM Nerd Font Mono SemBd
+RecMonoLinear Nerd Font Mono
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM,JetBrainsMonoNL NFM SemiBold
+DejaVu Sans
+Noto Sans Telugu
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP
+M+1Code Nerd Font Mono,M+1Code Nerd Font Mono SemBd
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond SemBd
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond ExtLt
+Noto Sans Kawi
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond
+LiterationSerif Nerd Font Propo
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP,JetBrainsMono NFP Medium
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Black
+CaskaydiaCove Nerd Font,CaskaydiaCove NF,CaskaydiaCove NF SemiLight
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM,JetBrainsMonoNL NFM Thin
+Noto Sans,Noto Sans Medium
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond Med
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond Thin
+Noto Serif,Noto Serif Medium
+Noto Sans Test
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Medium Obl
+DejaVu Serif,DejaVu Serif Condensed
+M+2 Nerd Font,M+2 Nerd Font ExtBd
+SpaceMono Nerd Font Mono
+3270 Nerd Font Propo
+GohuFont 11 Nerd Font Mono
+MonaspiceXe Nerd Font Propo,MonaspiceXe NFP,MonaspiceXe NFP Light
+Noto Serif Vithkuqi,Noto Serif Vithkuqi Medium
+Noto Sans Linear A
+Noto Sans Linear B
+MonaspiceXe Nerd Font,MonaspiceXe NF,MonaspiceXe NF Medium
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Heavy
+Noto Serif Thai,Noto Serif Thai Thin
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond ExtLt
+Noto Sans Gothic
+InconsolataGo Nerd Font Mono
+D2CodingLigature Nerd Font Mono
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Medium Obl
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP ExtraLight Obl
+3270 Nerd Font Mono,3270 Nerd Font Mono SemCond
+Noto Sans Nandinagari
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond ExtBd
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Thin Obl
+M+2 Nerd Font Propo,M+2 Nerd Font Propo Thin
+FiraCode Nerd Font Mono,FiraCode Nerd Font Mono Light
+IntoneMono Nerd Font Propo,IntoneMono NFP,IntoneMono NFP Medium
+IosevkaTerm Nerd Font,IosevkaTerm NF
+Noto Sans Lydian
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond SemBd
+Noto Serif Tibetan,Noto Serif Tibetan Medium
+Noto Serif Gujarati
+Overpass Nerd Font,Overpass Nerd Font ExtBd
+Noto Sans Armenian,Noto Sans Armenian Medium
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM SemiBold
+M+2 Nerd Font,M+2 Nerd Font ExtLt
+Noto Sans Siddham
+VictorMono Nerd Font,VictorMono NF,VictorMono NF ExtraLight Obl
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond ExtLt
+Noto Sans Mono,Noto Sans Mono Light
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF ExtraBold
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemBd
+Noto Sans Ol Chiki
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM,JetBrainsMono NFM Light
+RecMonoDuotone Nerd Font Propo
+Noto Sans Lao Looped,Noto Sans Lao Looped Black
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond Light
+Noto Sans Mono,Noto Sans Mono Thin
+M+1 Nerd Font Propo,M+1 Nerd Font Propo Med
+MartianMono Nerd Font Propo,MartianMono NFP,MartianMono NFP Cond Med
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP,JetBrainsMono NFP Light
+iMWritingDuo Nerd Font
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd Light
+M+CodeLat60 Nerd Font Propo,M+CodeLat60 Nerd Font Propo ExtLt
+LiterationSans Nerd Font
+Noto Serif Hebrew,Noto Serif Hebrew Medium
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond Med
+Noto Sans Mono
+FiraCode Nerd Font Mono
+Noto Sans Hanifi Rohingya
+Symbols Nerd Font
+DaddyTimeMono Nerd Font Propo
+AtkynsonMono Nerd Font,AtkynsonMono NF
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond Thin
+SauceCodePro Nerd Font Propo,SauceCodePro NFP,SauceCodePro NFP Light
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Thin Obl
+Noto Serif,Noto Serif Black
+Noto Sans Thai Looped,Noto Sans Thai Looped Medium
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Light
+Noto Rashi Hebrew,Noto Rashi Hebrew Light
+Noto Serif Bengali,Noto Serif Bengali Medium
+Overpass Nerd Font,Overpass Nerd Font ExtLt
+Mononoki Nerd Font Propo
+Noto Sans Tangsa,Noto Sans Tangsa Medium
+NotoMono Nerd Font Mono,NotoMono NFM
+Hasklug Nerd Font Propo,Hasklug Nerd Font Propo ExtLt
+Noto Sans Arabic,Noto Sans Arabic Med
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Obl
+Noto Sans Wancho
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond ExtBd
+VictorMono Nerd Font,VictorMono NF
+BlexMono Nerd Font Propo,BlexMono Nerd Font Propo ExtraLight
+Noto Sans Modi
+IntoneMono Nerd Font Mono,IntoneMono NFM
+MonaspiceNe Nerd Font,MonaspiceNe NF,MonaspiceNe NF Medium
+MonaspiceRn Nerd Font,MonaspiceRn NF
+Noto Fangsong KSS Vertical
+Noto Sans Gujarati,Noto Sans Gujarati Light
+Noto Sans Old Hungarian
+Noto Serif Tibetan
+FiraCode Nerd Font Mono,FiraCode Nerd Font Mono Med
+MesloLGSDZ Nerd Font Propo
+Material Icons Round
+M+1Code Nerd Font Propo,M+1Code Nerd Font Propo ExtLt
+M+CodeLat50 Nerd Font Propo,M+CodeLat50 Nerd Font Propo Light
+M+2 Nerd Font
+Noto Sans Symbols,Noto Sans Symbols Thin
+MonaspiceXe Nerd Font Mono,MonaspiceXe NFM
+Iosevka Nerd Font Mono,Iosevka NFM
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Light
+Noto Sans Myanmar,Noto Sans Myanmar Light
+MartianMono Nerd Font,MartianMono NF,MartianMono NF Cond Med
+Fira Sans,Fira Sans ExtraBold
+Noto Kufi Arabic,Noto Kufi Arabic Black
+Inconsolata LGC Nerd Font Mono
+Noto Serif Ethiopic,Noto Serif Ethiopic Black
+Noto Sans Meetei Mayek
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond Med
+Noto Serif Hentaigana,Noto Serif Hentaigana Light
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP SemiBold Obl
+Noto Sans Gujarati UI
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond Med
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond ExtBd
+Noto Sans Cypriot
+MonaspiceRn Nerd Font Propo,MonaspiceRn NFP
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond ExtBd
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtBd
+CaskaydiaMono Nerd Font,CaskaydiaMono NF
+Noto Sans Tai Tham,Noto Sans Tai Tham Medium
+IntoneMono Nerd Font,IntoneMono NF,IntoneMono NF Medium
+Noto Sans Georgian,Noto Sans Georgian Bold
+Noto Serif Tamil,Noto Serif Tamil Light
+Noto Serif Gujarati,Noto Serif Gujarati Black
+Noto Serif Dives Akuru
+GeistMono Nerd Font,GeistMono NF,GeistMono NF Black
+Noto Sans Miao
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtLt
+BitstromWera Nerd Font Propo
+BitstromWera Nerd Font Mono
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Medium Obl
+Noto Serif Armenian,Noto Serif Armenian Black
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM ExtraLight Obl
+Noto Sans Zanabazar Square
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Med
+3270 Nerd Font Mono
+DejaVuSansM Nerd Font
+Noto Sans Gurmukhi UI,Noto Sans Gurmukhi UI Thin
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond
+DejaVu Sans,DejaVu Sans Condensed
+iMWritingQuat Nerd Font Propo
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM ExtraBold
+Noto Sans Pahawh Hmong
+FiraMono Nerd Font Propo,FiraMono Nerd Font Propo Medium
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond ExtLt
+Noto Sans Sogdian
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP,JetBrainsMonoNL NFP Thin
+Noto Sans Ugaritic
+Noto Serif Hentaigana
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond ExtLt
+Fira Sans,Fira Sans ExtraLight
+M+CodeLat50 Nerd Font Mono,M+CodeLat50 Nerd Font Mono Thin
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond ExtLt
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM Thin
+Noto Sans Lao
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond ExtBd
+M+1 Nerd Font Propo
+Noto Sans Marchen
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF ExtraBold
+C059
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Light Obl
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtBd
+Noto Sans Cherokee,Noto Sans Cherokee Thin
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond
+M+CodeLat60 Nerd Font,M+CodeLat60 Nerd Font SemBd
+GeistMono Nerd Font Mono,GeistMono NFM
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond ExtBd
+MonaspiceRn Nerd Font,MonaspiceRn NF,MonaspiceRn NF Medium
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP SemiLight
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond Thin
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond Thin
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Thin
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond Med
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtLt
+Overpass Nerd Font Propo,Overpass Nerd Font Propo Light
+Liberation Mono
+Noto Sans Cypro Minoan
+Noto Sans Arabic,Noto Sans Arabic Light
+Terminess Nerd Font Propo
+M+1Code Nerd Font
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond
+GohuFont 11 Nerd Font
+JetBrainsMono Nerd Font,JetBrainsMono NF
+Noto Sans NKo
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond ExtLt
+EnvyCodeR Nerd Font Propo
+ZedMono Nerd Font,ZedMono NF,ZedMono NF ExtraBold Obl
+OverpassM Nerd Font Mono
+Noto Sans Mro
+Noto Sans Hebrew,Noto Sans Hebrew Medium
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Medium Obl
+Hasklug Nerd Font Mono,Hasklug Nerd Font Mono Med
+Noto Sans Thai,Noto Sans Thai Light
+DaddyTimeMono Nerd Font
+Noto Sans Elymaic
+Noto Sans PhagsPa
+Noto Sans Imperial Aramaic,Noto Sans ImpAramaic
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP ExtraBold
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemBd
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM,JetBrainsMono NFM Thin
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Thin
+LiterationSerif Nerd Font
+Lekton Nerd Font
+Noto Sans Tifinagh Adrar
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond SemBd
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF,JetBrainsMonoNL NF ExtraBold
+M+1 Nerd Font Propo,M+1 Nerd Font Propo Thin
+Noto Sans Symbols,Noto Sans Symbols Medium
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Light Obl
+Noto Sans Telugu,Noto Sans Telugu Light
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP,JetBrainsMonoNL NFP SemiBold
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Medium
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond Light
+Noto Serif Kannada,Noto Serif Kannada Light
+AtkynsonMono Nerd Font,AtkynsonMono NF,AtkynsonMono NF Medium
+Noto Sans Lao,Noto Sans Lao Light
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP Obl
+Noto Sans Kannada UI,Noto Sans Kannada UI Black
+AdwaitaMono Nerd Font Propo
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd ExtBd
+Noto Sans Adlam Unjoined
+RobotoMono Nerd Font Mono
+Noto Sans Telugu,Noto Sans Telugu Thin
+Hurmit Nerd Font,Hurmit Nerd Font Light
+NotoMono Nerd Font Propo,NotoMono NFP
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Light Obl
+MonaspiceNe Nerd Font Propo,MonaspiceNe NFP,MonaspiceNe NFP Medium
+Iosevka Nerd Font,Iosevka NF,Iosevka NF ExtraBold
+M+1Code Nerd Font Mono
+Noto Sans Arabic,Noto Sans Arabic Blk
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond Thin
+Noto Sans Anatolian Hieroglyphs
+Noto Serif Gurmukhi,Noto Serif Gurmukhi Black
+Material Icons
+Noto Sans Lao,Noto Sans Lao Thin
+M+2 Nerd Font,M+2 Nerd Font Light
+OpenDyslexicM Nerd Font Mono
+IntoneMono Nerd Font,IntoneMono NF
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM SemiBold
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond ExtLt
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM Obl
+Noto Serif Ethiopic,Noto Serif Ethiopic Medium
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond ExtBd
+Noto Sans Meroitic
+Noto Serif Khmer,Noto Serif Khmer Medium
+MesloLGMDZ Nerd Font Mono
+MartianMono Nerd Font,MartianMono NF
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM ExtraBold
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond ExtBd
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond ExtLt
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond Light
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP Light
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM Black
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtBd
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond Black
+GohuFont uni14 Nerd Font
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Medium
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP Light
+Noto Sans Khmer,Noto Sans Khmer Black
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond Thin
+M+2 Nerd Font Propo,M+2 Nerd Font Propo Med
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM
+MonaspiceAr Nerd Font Propo,MonaspiceAr NFP,MonaspiceAr NFP Light
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond ExtLt
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP SemiBold Obl
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtLt
+Monoid Nerd Font
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP,JetBrainsMono NFP ExtraLight
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond Med
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Thin Obl
+Noto Sans Gujarati
+Noto Sans Malayalam UI,Noto Sans Malayalam UI Black
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond ExtBd
+FiraMono Nerd Font,FiraMono Nerd Font Medium
+Noto Sans Cham,Noto Sans Cham Light
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond ExtLt
+Mononoki Nerd Font
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond Black
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM UltraBlack
+FantasqueSansM Nerd Font
+RobotoMono Nerd Font,RobotoMono Nerd Font SmBd
+Hack Nerd Font Mono
+MesloLGLDZ Nerd Font Mono
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Light Obl
+Noto Serif Armenian,Noto Serif Armenian Medium
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond SemBd
+CaskaydiaMono Nerd Font Propo,CaskaydiaMono NFP,CaskaydiaMono NFP Light
+MartianMono Nerd Font Mono,MartianMono NFM,MartianMono NFM Cond Med
+LiterationSans Nerd Font Propo
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond ExtBd
+Noto Sans Malayalam UI,Noto Sans Malayalam UI Medium
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM ExtraBold
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Light
+AdwaitaMono Nerd Font Mono
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM Light Obl
+Noto Sans Egyptian Hieroglyphs,Noto Sans EgyptHiero
+M+CodeLat50 Nerd Font Propo,M+CodeLat50 Nerd Font Propo ExtLt
+Noto Sans Kannada UI,Noto Sans Kannada UI Thin
+Noto Sans Bassa Vah
+DroidSansM Nerd Font Propo
+Noto Serif Hebrew
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Medium
+Hasklug Nerd Font Propo,Hasklug Nerd Font Propo Med
+OverpassM Nerd Font
+iMWritingDuo Nerd Font Propo
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP ExtraBold Obl
+Noto Sans Manichaean
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP Black
+Noto Sans Indic Siyaq Numbers
+MartianMono Nerd Font Propo,MartianMono NFP,MartianMono NFP Cond
+ComicShannsMono Nerd Font Propo
+GohuFont 11 Nerd Font Propo
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond Med
+SpaceMono Nerd Font Propo
+Noto Sans Oriya,Noto Sans Oriya Thin
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond Med
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM Medium Obl
+Noto Sans
+GeistMono Nerd Font,GeistMono NF,GeistMono NF SemiBold
+Noto Sans Devanagari,Noto Sans Devanagari Medium
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond Light
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP SemiBold
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Black
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond
+3270 Nerd Font,3270 Nerd Font Cond
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP UltraLight
+Noto Sans Grantha
+Noto Sans Arabic UI,Noto Sans Arabic UI Th
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Medium
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond Thin
+Noto Sans Kannada UI,Noto Sans Kannada UI Medium
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtBd
+Noto Sans Armenian
+Noto Serif Balinese
+GohuFont uni11 Nerd Font Mono
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtLt
+Ubuntu Nerd Font,Ubuntu Nerd Font Med
+HeavyData Nerd Font Propo
+Noto Sans Duployan
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Thin
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Thin
+Noto Sans Thaana,Noto Sans Thaana Medium
+Noto Sans Thai Looped
+OpenDyslexicAlt Nerd Font
+Noto Serif Malayalam,Noto Serif Malayalam Thin
+Overpass Nerd Font Propo,Overpass Nerd Font Propo ExtBd
+Z003
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Heavy Obl
+Noto Serif Yezidi,Noto Serif Yezidi Medium
+EnvyCodeR Nerd Font
+Noto Sans Canadian Aboriginal,Noto Sans Canadian Aboriginal Medium
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond ExtBd
+ComicShannsMono Nerd Font
+Noto Sans Syriac Western,Noto Sans Syriac Western Thin
+0xProto Nerd Font Mono
+Noto Kufi Arabic,Noto Kufi Arabic Thin
+Noto Serif Myanmar
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Light
+Noto Serif Oriya
+BigBlueTerm437 Nerd Font Propo
+Noto Sans Arabic UI,Noto Sans Arabic UI Bk
+MartianMono Nerd Font Mono,MartianMono NFM
+Noto Sans Old Italic
+Iosevka Nerd Font,Iosevka NF,Iosevka NF SemiBold
+Noto Sans Arabic,Noto Sans Arabic Thin
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond SemBd
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtLt
+Noto Sans Bengali,Noto Sans Bengali Thin
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Obl
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtBd
+FiraCode Nerd Font Propo,FiraCode Nerd Font Propo SemBd
+AtkynsonMono Nerd Font Propo,AtkynsonMono NFP,AtkynsonMono NFP Medium
+Noto Sans Lisu
+HeavyData Nerd Font
+Noto Sans Gujarati UI,Noto Sans Gujarati UI Black
+Noto Sans Thai
+Noto Serif Myanmar,Noto Serif Myanmar Medium
+Noto Sans Khmer
+Noto Sans Thaana,Noto Sans Thaana Black
+Noto Sans Kaithi
+Overpass Nerd Font Propo,Overpass Nerd Font Propo ExtLt
+D050000L
+Noto Sans Tamil UI,Noto Sans Tamil UI Thin
+BlexMono Nerd Font,BlexMono Nerd Font ExtraLight
+Noto Sans Math
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond ExtLt
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Medium
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Light Obl
+Noto Naskh Arabic UI
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Medium
+Noto Sans Meetei Mayek,Noto Sans Meetei Mayek Thin
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Light Obl
+Hack Nerd Font
+M+CodeLat60 Nerd Font Propo,M+CodeLat60 Nerd Font Propo Med
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond Med
+Noto Sans Tagbanwa
+Noto Sans Arabic UI,Noto Sans Arabic UI Lt
+M+CodeLat60 Nerd Font Mono,M+CodeLat60 Nerd Font Mono Thin
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond Black
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Obl
+Noto Sans Arabic UI,Noto Sans Arabic UI Md
+Noto Sans Thai Looped,Noto Sans Thai Looped Thin
+RecMonoLinear Nerd Font
+Noto Sans Myanmar
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP,JetBrainsMonoNL NFP ExtraBold
+M+CodeLat60 Nerd Font Mono,M+CodeLat60 Nerd Font Mono SemBd
+Noto Sans Vai
+Hasklug Nerd Font,Hasklug Nerd Font ExtLt
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond Thin
+CaskaydiaMono Nerd Font Mono,CaskaydiaMono NFM,CaskaydiaMono NFM ExtraLight
+RecMonoDuotone Nerd Font
+Noto Serif Sinhala,Noto Serif Sinhala Black
+Liberation Serif
+CaskaydiaMono Nerd Font Propo,CaskaydiaMono NFP
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF SemiBold
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond Med
+Lilex Nerd Font Propo
+M+1 Nerd Font,M+1 Nerd Font SemBd
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF,JetBrainsMonoNL NF Light
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond
+M+1Code Nerd Font Propo,M+1Code Nerd Font Propo SemBd
+M+2 Nerd Font Propo,M+2 Nerd Font Propo Black
+Hurmit Nerd Font Propo
+RobotoMono Nerd Font,RobotoMono Nerd Font Th
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP,JetBrainsMonoNL NFP ExtraLight
+Noto Sans Meetei Mayek,Noto Sans Meetei Mayek Light
+Noto Sans Bengali,Noto Sans Bengali Medium
+M+CodeLat50 Nerd Font Propo,M+CodeLat50 Nerd Font Propo Med
+RecMonoCasual Nerd Font Mono
+Noto Sans Symbols,Noto Sans Symbols Black
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond Black
+Noto Sans New Tai Lue,Noto Sans New Tai Lue Medium
+Noto Serif Devanagari,Noto Serif Devanagari Thin
+MonaspiceAr Nerd Font,MonaspiceAr NF,MonaspiceAr NF Light
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond SemBd
+GeistMono Nerd Font,GeistMono NF,GeistMono NF UltraBlack
+Ubuntu Nerd Font Propo,Ubuntu Nerd Font Propo Med
+MonaspiceAr Nerd Font Mono,MonaspiceAr NFM,MonaspiceAr NFM Medium
+Noto Sans Caucasian Albanian
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond Light
+Noto Sans Lao Looped,Noto Sans Lao Looped Medium
+Overpass Nerd Font
+Monofur Nerd Font Propo
+Noto Sans Cherokee,Noto Sans Cherokee Black
+Noto Sans New Tai Lue
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond
+Noto Serif Georgian
+M+CodeLat50 Nerd Font Mono,M+CodeLat50 Nerd Font Mono SemBd
+MonaspiceKr Nerd Font Mono,MonaspiceKr NFM,MonaspiceKr NFM Medium
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond Light
+CaskaydiaMono Nerd Font,CaskaydiaMono NF,CaskaydiaMono NF SemiLight
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP SemiBold
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond Thin
+3270 Nerd Font
+Noto Serif Oriya,Noto Serif Oriya Medium
+RobotoMono Nerd Font Propo,RobotoMono Nerd Font Propo Md
+CaskaydiaMono Nerd Font Propo,CaskaydiaMono NFP,CaskaydiaMono NFP ExtraLight
+M+1 Nerd Font Propo,M+1 Nerd Font Propo Black
+Noto Sans Syloti Nagri
+MesloLGS Nerd Font Propo
+RobotoMono Nerd Font Propo,RobotoMono Nerd Font Propo Lt
+Overpass Nerd Font Propo,Overpass Nerd Font Propo Thin
+GeistMono Nerd Font,GeistMono NF
+Noto Sans Syriac Western
+M+1Code Nerd Font,M+1Code Nerd Font Med
+Noto Serif Malayalam,Noto Serif Malayalam Black
+Noto Serif Devanagari,Noto Serif Devanagari Medium
+Noto Serif Hentaigana,Noto Serif Hentaigana Bold
+Noto Sans Sinhala UI
+Noto Serif Tibetan,Noto Serif Tibetan Thin
+AurulentSansM Nerd Font
+Noto Sans Symbols
+RobotoMono Nerd Font Propo,RobotoMono Nerd Font Propo Th
+Noto Sans Bengali UI,Noto Sans Bengali UI Medium
+Noto Sans,Noto Sans Black
+Noto Sans Sinhala,Noto Sans Sinhala Medium
+Noto Serif Khmer,Noto Serif Khmer Black
+Noto Sans Samaritan
+Noto Sans Thaana,Noto Sans Thaana Thin
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP ExtCond Thin
+Noto Sans Gurmukhi UI,Noto Sans Gurmukhi UI Black
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Light Obl
+BlexMono Nerd Font Mono,BlexMono Nerd Font Mono Light
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF SemiBold Obl
+RobotoMono Nerd Font,RobotoMono Nerd Font Lt
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP ExtraBold Obl
+ZedMono Nerd Font Mono,ZedMono NFM,ZedMono NFM Extd ExtBd Obl
+Noto Sans Newa
+SauceCodePro Nerd Font Mono,SauceCodePro NFM,SauceCodePro NFM Black
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP,JetBrainsMonoNL NFP Light
+RobotoMono Nerd Font,RobotoMono Nerd Font Md
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond Light
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond Light
+M+2 Nerd Font Propo,M+2 Nerd Font Propo SemBd
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Thin Obl
+CaskaydiaMono Nerd Font Propo,CaskaydiaMono NFP,CaskaydiaMono NFP SemiLight
+Noto Sans Meetei Mayek,Noto Sans Meetei Mayek Medium
+UbuntuMono Nerd Font Mono
+Noto Serif Telugu
+Lilex Nerd Font Mono,Lilex Nerd Font Mono Medium
+BitstromWera Nerd Font
+Noto Sans Carian
+Noto Sans Gunjala Gondi,Noto Sans Gunjala Gondi Medium
+M+CodeLat60 Nerd Font
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF,JetBrainsMonoNL NF SemiBold
+Liberation Sans
+iMWritingQuat Nerd Font
+BlexMono Nerd Font,BlexMono Nerd Font SemiBold
+M+1Code Nerd Font,M+1Code Nerd Font Light
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond Black
+ZedMono Nerd Font Mono,ZedMono NFM
+SauceCodePro Nerd Font,SauceCodePro NF,SauceCodePro NF Light
+Noto Sans Bamum
+M+CodeLat50 Nerd Font Propo,M+CodeLat50 Nerd Font Propo Thin
+Noto Sans Sinhala UI,Noto Sans Sinhala UI Light
+Noto Serif Thai,Noto Serif Thai Light
+Noto Sans Gujarati,Noto Sans Gujarati Medium
+CaskaydiaMono Nerd Font Mono,CaskaydiaMono NFM,CaskaydiaMono NFM SemiLight
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Cond SemBd
+Noto Sans Takri
+JetBrainsMono Nerd Font Propo,JetBrainsMono NFP,JetBrainsMono NFP SemiBold
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond Black
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF ExtraLight
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond Black
+Noto Sans Nabataean
+Lilex Nerd Font Mono,Lilex Nerd Font Mono ExtraLight
+M+1 Nerd Font,M+1 Nerd Font Black
+ProFontWindows Nerd Font
+Noto Sans Thai Looped,Noto Sans Thai Looped Light
+Noto Serif,Noto Serif Thin
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Heavy
+Noto Sans Avestan
+M+1 Nerd Font Propo,M+1 Nerd Font Propo SemBd
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond Med
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF ExtCond
+Noto Sans Syriac Eastern,Noto Sans Syriac Eastern Thin
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond
+Noto Serif Myanmar,Noto Serif Myanmar Light
+Noto Sans Cuneiform
+BlexMono Nerd Font Propo,BlexMono Nerd Font Propo Thin
+Font Awesome 7 Free
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Light
+ProggyClean Nerd Font
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM,JetBrainsMono NFM Medium
+BlexMono Nerd Font Propo,BlexMono Nerd Font Propo Medium
+Hurmit Nerd Font
+MesloLGL Nerd Font
+Lilex Nerd Font Mono
+MartianMono Nerd Font Propo,MartianMono NFP,MartianMono NFP Med
+CodeNewRoman Nerd Font Propo
+DroidSansM Nerd Font Mono
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM ExtraLight
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond Thin
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Medium Obl
+MesloLGL Nerd Font Mono
+Terminess Nerd Font
+SauceCodePro Nerd Font,SauceCodePro NF,SauceCodePro NF Medium
+MesloLGM Nerd Font Propo
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Thin
+Noto Serif Hebrew,Noto Serif Hebrew Light
+FreeSans
+RecMonoSmCasual Nerd Font Mono
+Noto Sans Kannada
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Black
+Noto Sans Devanagari UI,Noto Sans Devanagari UI Thin
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF Heavy
+Noto Sans Canadian Aboriginal,Noto Sans Canadian Aboriginal Light
+SauceCodePro Nerd Font Propo,SauceCodePro NFP,SauceCodePro NFP Medium
+IosevkaTermSlab Nerd Font Mono,IosevkaTermSlab NFM,IosevkaTermSlab NFM ExtraBold Obl
+Noto Sans Sora Sompeng
+SauceCodePro Nerd Font Propo,SauceCodePro NFP,SauceCodePro NFP ExtraLight
+M+1Code Nerd Font Mono,M+1Code Nerd Font Mono Med
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond Black
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF
+Noto Sans Elbasan
+FiraCode Nerd Font,FiraCode Nerd Font SemBd
+Noto Znamenny Musical Notation
+Fira Sans,Fira Sans Medium
+Adwaita Sans
+Noto Sans Old South Arabian
+MartianMono Nerd Font Mono,MartianMono NFM,MartianMono NFM Cond
+Noto Sans Armenian,Noto Sans Armenian Light
+Noto Sans Canadian Aboriginal
+Noto Sans Old Turkic
+Noto Sans Ethiopic,Noto Sans Ethiopic Light
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM ExtraBold Obl
+3270 Nerd Font Propo,3270 Nerd Font Propo SemCond
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM,JetBrainsMonoNL NFM Light
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM SemiBold Obl
+FiraCode Nerd Font Propo,FiraCode Nerd Font Propo Ret
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP Medium
+Noto Color Emoji
+Noto Sans Limbu
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF Light
+Noto Sans Cham,Noto Sans Cham Medium
+Noto Serif Khojki
+Noto Serif Tangut
+FiraMono Nerd Font Mono,FiraMono Nerd Font Mono Medium
+MonaspiceNe Nerd Font Mono,MonaspiceNe NFM,MonaspiceNe NFM Light
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Heavy Obl
+Hasklug Nerd Font Mono,Hasklug Nerd Font Mono Black
+NotoMono Nerd Font,NotoMono NF
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Thin Obl
+M+CodeLat60 Nerd Font Propo,M+CodeLat60 Nerd Font Propo SemBd
+Noto Sans Syriac Eastern,Noto Sans Syriac Eastern Black
+Noto Serif NP Hmong,Noto Serif NP Hmong Medium
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM SemiBold
+Noto Sans Tamil
+M+1Code Nerd Font Mono,M+1Code Nerd Font Mono Thin
+Noto Sans Tamil UI,Noto Sans Tamil UI Light
+CaskaydiaCove Nerd Font Propo,CaskaydiaCove NFP,CaskaydiaCove NFP ExtraLight
+Noto Sans Sharada
+Noto Serif Myanmar,Noto Serif Myanmar Thin
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Obl
+Noto Sans Hebrew,Noto Sans Hebrew Thin
+Noto Sans Osmanya
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Cond Thin
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF Medium
+NotoSerif Nerd Font,NotoSerif NF
+3270 Nerd Font,3270 Nerd Font SemCond
+JetBrainsMonoNL Nerd Font Propo,JetBrainsMonoNL NFP
+MesloLGMDZ Nerd Font Propo
+Noto Sans Bengali,Noto Sans Bengali Black
+Noto Sans Sinhala,Noto Sans Sinhala Light
+GohuFont 14 Nerd Font
+Noto Serif Hebrew,Noto Serif Hebrew Thin
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP
+Noto Sans Lao Looped,Noto Sans Lao Looped Light
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond SemBd
+ComicShannsMono Nerd Font Mono
+DaddyTimeMono Nerd Font Mono
+Noto Serif Display,Noto Serif Display Thin
+Noto Sans Palmyrene
+Noto Serif Ahom
+3270 Nerd Font Propo,3270 Nerd Font Propo Cond
+Noto Serif Kannada,Noto Serif Kannada Thin
+MesloLGL Nerd Font Propo
+Noto Sans Lycian
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Heavy
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Cond SemBd
+VictorMono Nerd Font,VictorMono NF,VictorMono NF SemiBold Obl
+ProggyCleanSZ Nerd Font Propo
+M+CodeLat50 Nerd Font Mono,M+CodeLat50 Nerd Font Mono Med
+Lekton Nerd Font Propo
+Noto Sans Yi
+Noto Sans Telugu UI,Noto Sans Telugu UI Light
+MonaspiceRn Nerd Font Propo,MonaspiceRn NFP,MonaspiceRn NFP Light
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Medium
+Noto Serif Toto,Noto Serif Toto Medium
+AtkynsonMono Nerd Font Propo,AtkynsonMono NFP,AtkynsonMono NFP Light
+Inconsolata LGC Nerd Font Propo
+SauceCodePro Nerd Font Mono,SauceCodePro NFM,SauceCodePro NFM SemiBold
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemBd
+Noto Kufi Arabic
+IosevkaTermSlab Nerd Font,IosevkaTermSlab NF,IosevkaTermSlab NF Medium Obl
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF Black
+Overpass Nerd Font,Overpass Nerd Font Light
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond Med
+Noto Sans Devanagari UI,Noto Sans Devanagari UI Light
+Hurmit Nerd Font Mono,Hurmit Nerd Font Mono Light
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM
+NotoSansM Nerd Font,NotoSansM NF
+Noto Sans Bengali UI,Noto Sans Bengali UI Light
+Noto Serif,Noto Serif Light
+FiraCode Nerd Font Mono,FiraCode Nerd Font Mono Ret
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Medium
+Noto Sans Mono,Noto Sans Mono Black
+JetBrainsMono Nerd Font,JetBrainsMono NF,JetBrainsMono NF ExtraLight
+Noto Sans Kannada UI
+Iosevka Nerd Font,Iosevka NF,Iosevka NF ExtraBold Obl
+Noto Sans Georgian,Noto Sans Georgian Thin
+Noto Sans Pau Cin Hau
+Noto Sans Myanmar,Noto Sans Myanmar Black
+Noto Sans Saurashtra
+M+CodeLat50 Nerd Font,M+CodeLat50 Nerd Font Light
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond Black
+Hasklug Nerd Font Mono,Hasklug Nerd Font Mono SemBd
+ProggyClean CE Nerd Font Propo
+Noto Sans Gujarati,Noto Sans Gujarati Black
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond ExtBd
+Noto Sans Khmer,Noto Sans Khmer Thin
+EnvyCodeR Nerd Font Mono
+ProggyCleanSZ Nerd Font
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM,CaskaydiaCove NFM ExtraLight
+Hasklug Nerd Font Propo,Hasklug Nerd Font Propo Light
+OverpassM Nerd Font Propo,OverpassM Nerd Font Propo Light
+Noto Sans Bengali UI,Noto Sans Bengali UI Thin
+Noto Sans Old Permic
+Noto Sans Kayah Li,Noto Sans Kayah Li Medium
+MesloLGSDZ Nerd Font
+BlexMono Nerd Font,BlexMono Nerd Font Medium
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Thin Obl
+IntoneMono Nerd Font Propo,IntoneMono NFP,IntoneMono NFP Light
+M+1Code Nerd Font,M+1Code Nerd Font ExtLt
+DejaVuSansM Nerd Font Mono
+Noto Serif Armenian
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemCond SemBd
+Noto Sans Ol Chiki,Noto Sans Ol Chiki Medium
+VictorMono Nerd Font,VictorMono NF,VictorMono NF Light Obl
+M+CodeLat60 Nerd Font,M+CodeLat60 Nerd Font ExtLt
+Noto Sans Sinhala UI,Noto Sans Sinhala UI Medium
+MesloLGLDZ Nerd Font
+Noto Sans Warang Citi
+SauceCodePro Nerd Font,SauceCodePro NF
+AnonymicePro Nerd Font Propo
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemBd
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP Obl
+P052
+Noto Sans Syriac
+Noto Serif Sinhala
+FiraMono Nerd Font
+M+CodeLat50 Nerd Font
+Noto Sans Tifinagh Tawellemmet
+Noto Serif Ethiopic
+M+CodeLat60 Nerd Font Propo,M+CodeLat60 Nerd Font Propo Thin
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP Cond ExtLt
+IosevkaTerm Nerd Font Mono,IosevkaTerm NFM,IosevkaTerm NFM Light
+Noto Serif Tamil,Noto Serif Tamil Black
+Noto Sans Telugu,Noto Sans Telugu Medium
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtBd
+MesloLGMDZ Nerd Font
+OpenDyslexic Nerd Font Propo
+JetBrainsMonoNL Nerd Font Mono,JetBrainsMonoNL NFM
+IosevkaTermSlab Nerd Font Propo,IosevkaTermSlab NFP,IosevkaTermSlab NFP Light Obl
+RobotoMono Nerd Font Mono,RobotoMono Nerd Font Mono Lt
+Overpass Nerd Font,Overpass Nerd Font Thin
+Monoid Nerd Font Propo
+Cousine Nerd Font
+RobotoMono Nerd Font Mono,RobotoMono Nerd Font Mono Md
+VictorMono Nerd Font Mono,VictorMono NFM,VictorMono NFM Light Obl
+IntoneMono Nerd Font Mono,IntoneMono NFM,IntoneMono NFM Medium
+Noto Sans Sinhala UI,Noto Sans Sinhala UI Thin
+SauceCodePro Nerd Font Propo,SauceCodePro NFP
+MonaspiceAr Nerd Font Mono,MonaspiceAr NFM
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtLt
+Noto Sans Tifinagh Rhissa Ixa
+Tinos Nerd Font Propo
+Inconsolata Nerd Font Mono
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP Medium
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM,JetBrainsMono NFM ExtraLight
+MonaspiceXe Nerd Font,MonaspiceXe NF,MonaspiceXe NF Light
+Noto Sans Coptic
+Noto Sans Nushu
+Noto Sans Hebrew,Noto Sans Hebrew Black
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Thin
+Noto Sans Oriya,Noto Sans Oriya Blk
+Noto Sans Gurmukhi,Noto Sans Gurmukhi Thin
+Lilex Nerd Font,Lilex Nerd Font Thin
+CodeNewRoman Nerd Font
+GeistMono Nerd Font,GeistMono NF,GeistMono NF Light
+DejaVu Serif
+Noto Sans Rejang
+OpenDyslexicM Nerd Font Propo
+Noto Serif Bengali,Noto Serif Bengali Light
+RobotoMono Nerd Font Mono,RobotoMono Nerd Font Mono Th
+Noto Sans Gurmukhi,Noto Sans Gurmukhi Black
+Noto Sans Devanagari,Noto Sans Devanagari Light
+ProggyClean CE Nerd Font Mono
+Ubuntu Nerd Font Propo
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF Med
+Inconsolata Nerd Font
+Noto Sans Gujarati UI,Noto Sans Gujarati UI Thin
+Lekton Nerd Font Mono
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM ExtCond Thin
+Noto Sans Bassa Vah,Noto Sans Bassa Vah Medium
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF SemBd
+MesloLGLDZ Nerd Font Propo
+SauceCodePro Nerd Font,SauceCodePro NF,SauceCodePro NF SemiBold
+Noto Sans Devanagari
+AtkynsonMono Nerd Font Propo,AtkynsonMono NFP
+MonaspiceKr Nerd Font Mono,MonaspiceKr NFM
+NotoSans Nerd Font,NotoSans NF,NotoSans NF ExtCond Thin
+Noto Serif Lao,Noto Serif Lao Black
+Noto Rashi Hebrew
+Noto Sans Malayalam,Noto Sans Malayalam Thin
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP ExtraLight
+BlexMono Nerd Font Mono,BlexMono Nerd Font Mono Text
+BlexMono Nerd Font Propo,BlexMono Nerd Font Propo Text
+Noto Serif Devanagari,Noto Serif Devanagari Black
+Noto Serif Khmer
+Ubuntu Nerd Font,Ubuntu Nerd Font Cond
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Light
+Iosevka Nerd Font,Iosevka NF,Iosevka NF ExtraLight
+MonaspiceKr Nerd Font Propo,MonaspiceKr NFP
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd Obl
+FantasqueSansM Nerd Font Mono
+Noto Sans Mono,Noto Sans Mono Medium
+IntoneMono Nerd Font,IntoneMono NF,IntoneMono NF Light
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP Black
+OpenDyslexicM Nerd Font
+JetBrainsMono Nerd Font,JetBrainsMono NF,JetBrainsMono NF Light
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond ExtLt
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond Thin
+BlexMono Nerd Font Mono,BlexMono Nerd Font Mono Medium
+Noto Sans Lao,Noto Sans Lao Black
+MartianMono Nerd Font Mono,MartianMono NFM,MartianMono NFM Med
+Noto Serif Display,Noto Serif Display Black
+Noto Serif Display
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP ExtCond ExtBd
+Noto Serif Telugu,Noto Serif Telugu Thin
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond SemBd
+Noto Sans Kannada UI,Noto Sans Kannada UI Light
+Noto Serif Tamil
+Noto Serif Todhri
+JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF,JetBrainsMonoNL NF ExtraLight
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP Light
+M+CodeLat50 Nerd Font Propo,M+CodeLat50 Nerd Font Propo SemBd
+NotoSans Nerd Font,NotoSans NF,NotoSans NF SemCond Med
+Noto Nastaliq Urdu
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM Cond SemBd
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP Cond Light
+SauceCodePro Nerd Font Mono,SauceCodePro NFM,SauceCodePro NFM Medium
+Noto Sans Ethiopic
+Noto Sans Medefaidrin,Noto Sans Medefaidrin Medium
+Hurmit Nerd Font Propo,Hurmit Nerd Font Propo Light
+Iosevka Nerd Font Mono,Iosevka NFM,Iosevka NFM ExtraLight Obl
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Light
+Noto Sans Cham,Noto Sans Cham Thin
+NotoSansM Nerd Font Mono,NotoSansM NFM,NotoSansM NFM SemCond Light
+M+1Code Nerd Font,M+1Code Nerd Font Thin
+Noto Serif Gurmukhi,Noto Serif Gurmukhi Light
+M+2 Nerd Font Propo,M+2 Nerd Font Propo ExtLt
+Noto Serif Tibetan,Noto Serif Tibetan Black
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd Light
+MonaspiceRn Nerd Font Mono,MonaspiceRn NFM,MonaspiceRn NFM Medium
+Iosevka Nerd Font,Iosevka NF,Iosevka NF Obl
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Obl
+M+2 Nerd Font Propo,M+2 Nerd Font Propo ExtBd
+Noto Sans Georgian,Noto Sans Georgian Black
+NotoSans Nerd Font,NotoSans NF,NotoSans NF Cond
+MonaspiceKr Nerd Font,MonaspiceKr NF
+IosevkaTerm Nerd Font,IosevkaTerm NF,IosevkaTerm NF ExtraBold Obl
+GeistMono Nerd Font Mono,GeistMono NFM,GeistMono NFM Light
+Noto Sans Kannada,Noto Sans Kannada Thin
+FantasqueSansM Nerd Font Propo
+Ubuntu Nerd Font,Ubuntu Nerd Font Light
+Noto Sans Cham,Noto Sans Cham Black
+OverpassM Nerd Font,OverpassM Nerd Font SemBd
+Noto Serif Telugu,Noto Serif Telugu Light
+MonaspiceKr Nerd Font,MonaspiceKr NF,MonaspiceKr NF Light
+BlexMono Nerd Font
+FreeMono
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Light
+M+CodeLat60 Nerd Font Mono,M+CodeLat60 Nerd Font Mono Med
+ZedMono Nerd Font,ZedMono NF,ZedMono NF Extd Med
+Terminess Nerd Font Mono
+MesloLGM Nerd Font
+MonaspiceNe Nerd Font,MonaspiceNe NF,MonaspiceNe NF Light
+Ubuntu Nerd Font Propo,Ubuntu Nerd Font Propo Cond
+Noto Naskh Arabic,Noto Naskh Arabic Medium
+Ubuntu Mono
+Hasklug Nerd Font,Hasklug Nerd Font Black
+GeistMono Nerd Font Propo,GeistMono NFP,GeistMono NFP SemiBold
+SauceCodePro Nerd Font Propo,SauceCodePro NFP,SauceCodePro NFP SemiBold
+M+1 Nerd Font Propo,M+1 Nerd Font Propo ExtBd
+CaskaydiaCove Nerd Font Mono,CaskaydiaCove NFM
+Noto Serif Lao,Noto Serif Lao Medium
+ZedMono Nerd Font Propo,ZedMono NFP,ZedMono NFP Extd Light Obl
+Overpass Nerd Font Propo,Overpass Nerd Font Propo SemBd
+VictorMono Nerd Font Propo,VictorMono NFP,VictorMono NFP Medium Obl
+Noto Sans Kannada,Noto Sans Kannada Light
+Noto Serif Hentaigana,Noto Serif Hentaigana Medium
+M+CodeLat60 Nerd Font,M+CodeLat60 Nerd Font Thin
+Noto Sans Bamum,Noto Sans Bamum Medium
+NotoSerif Nerd Font,NotoSerif NF,NotoSerif NF ExtCond Light
+Noto Sans Hanunoo
+Noto Sans Inscriptional Pahlavi,Noto Sans InsPahlavi
+JetBrainsMono Nerd Font Mono,JetBrainsMono NFM,JetBrainsMono NFM ExtraBold
+M+CodeLat50 Nerd Font,M+CodeLat50 Nerd Font Thin
+NotoSansM Nerd Font Propo,NotoSansM NFP,NotoSansM NFP SemCond Light
+Noto Sans Lao Looped,Noto Sans Lao Looped Thin
+Noto Sans Khmer,Noto Sans Khmer Light
+Noto Sans Phoenician
+Noto Sans Sundanese
+AtkynsonMono Nerd Font Mono,AtkynsonMono NFM,AtkynsonMono NFM Medium
+Noto Sans Hanifi Rohingya,Noto Sans Hanifi Rohingya Medium
+0xProto Nerd Font
+Noto Sans Myanmar,Noto Sans Myanmar Thin
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP ExtCond
+Noto Sans Khudawadi
+M+1 Nerd Font Propo,M+1 Nerd Font Propo ExtLt
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond ExtLt
+FiraCode Nerd Font Propo,FiraCode Nerd Font Propo Light
+M+1Code Nerd Font Propo,M+1Code Nerd Font Propo Thin
+Noto Sans Inscriptional Parthian
+Noto Serif Display,Noto Serif Display Medium
+NotoSerif Nerd Font Propo,NotoSerif NFP,NotoSerif NFP SemCond ExtLt
+D2CodingLigature Nerd Font Propo
+IosevkaTerm Nerd Font Propo,IosevkaTerm NFP,IosevkaTerm NFP ExtraBold
+Fira Sans,Fira Sans Light
+Iosevka Nerd Font Propo,Iosevka NFP,Iosevka NFP ExtraBold Obl
+Noto Sans Mende Kikakui
+Noto Sans Gujarati UI,Noto Sans Gujarati UI Medium
+MonaspiceRn Nerd Font Mono,MonaspiceRn NFM,MonaspiceRn NFM Light
+NotoSans Nerd Font Propo,NotoSans NFP,NotoSans NFP SemCond ExtBd
+Noto Sans NKo Unjoined
+NotoSansM Nerd Font,NotoSansM NF,NotoSansM NF SemCond Thin
+ZedMono Nerd Font,ZedMono NF
+Noto Sans Sinhala,Noto Sans Sinhala Thin
+OverpassM Nerd Font Propo

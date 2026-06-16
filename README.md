@@ -26,10 +26,19 @@ Everything else is optional.
 
 ## Repository Structure
 
-- `plan.md` — migration plan and strategy.
+- `docs/` — migration plan, strategy, and backup documentation.
+- `arch-inventory/` — lists of packages, services, and configuration dumped from Arch Linux.
+- `scripts/` — automation tools for the migration process.
 - `todo.txt` — active task list managed with Tuxedo.
-- `project-todo-list.py` — generates project backup audit tasks.
-- `project_backup_list.md` — documentation for the backup audit workflow.
+- `projects-backup.txt` — generated project backup audit tasks.
+- `LICENSE` — project license.
+- `README.md` — this file.
+
+### Key Files
+
+- `docs/plan.md` — main migration roadmap.
+- `scripts/project-todo-list.py` — generates project backup audit tasks.
+- `docs/project_backup_list.md` — documentation for the backup audit workflow.
 
 ## Guiding Principle
 

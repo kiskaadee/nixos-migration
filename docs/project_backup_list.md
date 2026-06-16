@@ -48,7 +48,7 @@ The tasks are annotated with contexts so you can filter them easily in Tuxedo:
 
 ## Script Architecture
 
-The script [project-todo-list.py](file:///home/kiskaadee/Projects/nixox-migration/project-todo-list.py) is self-contained and uses only Python's standard library. It does the following when executed:
+The script [project-todo-list.py](file:///home/kiskaadee/Projects/nixos-migration/scripts/project-todo-list.py) is self-contained and uses only Python's standard library. It does the following when executed:
 1. Resolves paths (expanding `~/` to absolute paths).
 2. Traverses every subdirectory in the specified parent folders.
 3. Automatically queries local Git status for each folder:
@@ -66,18 +66,18 @@ The script [project-todo-list.py](file:///home/kiskaadee/Projects/nixox-migratio
 Since the projects are on your Arch Linux machine, follow these steps to execute the script:
 
 ### 1. Copy the Script
-Copy [project-todo-list.py](file:///home/kiskaadee/Projects/nixox-migration/project-todo-list.py) to your Arch Linux machine.
+Copy [project-todo-list.py](file:///home/kiskaadee/Projects/nixos-migration/scripts/project-todo-list.py) to your Arch Linux machine.
 
 ### 2. Make it Executable
 Ensure the script is executable:
 ```bash
-chmod +x project-todo-list.py
+chmod +x scripts/project-todo-list.py
 ```
 
 ### 3. Run the Scan
 Execute the script using its default values (which will scan `~/Projects` and `~/deployments` and write to `projects-backup.txt` in your current directory):
 ```bash
-./project-todo-list.py
+./scripts/project-todo-list.py
 ```
 
 #### Customizing Paths

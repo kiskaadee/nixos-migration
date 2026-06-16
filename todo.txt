@@ -1,5 +1,5 @@
 x 2026-06-16 2026-06-16 Create backups of critical files +pre-migration @desktop
-(A) Verify NixOS ISO integrity +pre-migration @desktop
+x 2026-06-16 2026-06-16 Verify NixOS ISO integrity +pre-migration @desktop
 (A) Flash NixOS installer USB +pre-migration @desktop
 (B) Boot NixOS live environment +installation @desktop
 (B) Inspect partition layout +installation @desktop
@@ -18,4 +18,4 @@ x 2026-06-16 2026-06-16 Create backups of critical files +pre-migration @desktop
 (E) Audit bash-custom repository +shell @laptop
 (E) Decide Bash vs Zsh +shell @laptop
 (E) Configure Hyprland +setup @desktop
-(A) Create backup inventory document +pre-migration @desktop
+x 2026-06-16 2026-06-16 Create backup inventory document +pre-migration @desktop

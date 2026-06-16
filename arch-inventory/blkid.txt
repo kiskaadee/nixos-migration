@@ -1,0 +1,8 @@
+/dev/mapper/ArchinstallVg-home: UUID="389557f0-7cd5-4bb3-847c-07c3b8254e1f" BLOCK_SIZE="4096" TYPE="ext4"
+/dev/nvme0n1p3: UUID="gClO5N-PXx6-gpKU-x3cZ-qqLb-wUUR-XSuhht" TYPE="LVM2_member" PARTUUID="3626bf0b-e6ee-4084-9a6f-a98e38a51752"
+/dev/nvme0n1p1: UUID="203D-E1C6" BLOCK_SIZE="512" TYPE="vfat" PARTUUID="c2228bcd-ad85-4578-9e46-bfcfeab5fc0b"
+/dev/nvme0n1p2: UUID="qqsXk1-ak4D-kGyj-az5X-jg9U-xnXW-p48TlZ" TYPE="LVM2_member" PARTUUID="fd19da46-0bdc-4bdc-a7cc-58299d6081e6"
+/dev/mapper/ArchinstallVg-root: UUID="b59c83e3-660f-4004-8e40-a6cfa0af037d" BLOCK_SIZE="4096" TYPE="ext4"
+/dev/sda2: SEC_TYPE="msdos" UUID="DEB0-0001" BLOCK_SIZE="512" TYPE="vfat" PARTUUID="412c1a1d-02"
+/dev/sda1: BLOCK_SIZE="2048" UUID="2026-03-14-11-58-05-00" LABEL="Debian 13.4.0 amd64 n" TYPE="iso9660" PTUUID="412c1a1d" PTTYPE="dos" PARTUUID="412c1a1d-01"
+/dev/zram0: LABEL="zram0" UUID="fdbc6a82-661b-4b2e-8556-acbbd4b36e12" TYPE="swap"

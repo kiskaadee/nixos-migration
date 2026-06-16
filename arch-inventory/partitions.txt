@@ -1,0 +1,43 @@
+Disk /dev/nvme0n1: 931.51 GiB, 1000204886016 bytes, 1953525168 sectors
+Disk model: CT1000E100SSD8
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: gpt
+Disk identifier: 2B4CBF3B-1AD3-4051-BD8E-79C1738DDF2B
+
+Device             Start        End    Sectors   Size Type
+/dev/nvme0n1p1      2048    2099199    2097152     1G EFI System
+/dev/nvme0n1p2   2099200  106956799  104857600    50G Linux root (x86-64)
+/dev/nvme0n1p3 106956800 1953521663 1846564864 880.5G Linux home
+
+
+Disk /dev/mapper/ArchinstallVg-root: 180 GiB, 193273528320 bytes, 377487360 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/mapper/ArchinstallVg-home: 750 GiB, 805306368000 bytes, 1572864000 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/sda: 58.59 GiB, 62914560000 bytes, 122880000 sectors
+Disk model: ProductCode     
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x412c1a1d
+
+Device     Boot Start     End Sectors Size Id Type
+/dev/sda1  *        0 1544191 1544192 754M  0 Empty
+/dev/sda2        4112   11311    7200 3.5M ef EFI (FAT-12/16/32)
+
+
+Disk /dev/zram0: 29.3 GiB, 31462522880 bytes, 7681280 sectors
+Units: sectors of 1 * 4096 = 4096 bytes
+Sector size (logical/physical): 4096 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes

@@ -29,6 +29,14 @@ Instead of writing 4 separate tasks for a single project, each project gets **ex
 | | `no-commits` | The repository has no commits yet. |
 | **`notes:`** | `todo` | Always pre-populated as a prompt to manually verify if local note files are preserved. |
 | **`git:`** | `no` | *(For non-git directories only)* Indicates the subdirectory is not a git repository. |
+| **`env:`** | `check` | Potential environment/secret files (like `.env`, `.env.local`) were detected. |
+| | `none` | No environment/secret files were detected. |
+| **`database:`** | `check` | SQLite/database files (like `.db`, `.sqlite`, `.sqlite3`) were detected. |
+| | `none` | No SQLite database files were detected. |
+| **`docker:`** | `yes` | Docker config files (like `Dockerfile`, `docker-compose.yml`) were detected. |
+| | `no` | No Docker config files were detected. |
+| **`size:`** | `<mb>` | Calculated physical size of the repository on disk in megabytes (e.g. `12mb`, `14000mb`). |
+| | `unknown`| Unable to determine the size of the repository. |
 
 ### Context Tags
 

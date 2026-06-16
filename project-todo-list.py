@@ -22,6 +22,20 @@ import datetime
 import subprocess
 import argparse
 
+# Directory patterns to exclude from scans and size calculations
+SKIP_DIRS = {
+    '.git',
+    '.venv',
+    'venv',
+    'node_modules',
+    '__pycache__',
+    '.pytest_cache',
+    '.next',
+    'target',
+    'dist',
+    'build',
+}
+
 # ANSI color codes for pretty CLI output
 COLOR_GREEN = "\033[92m"
 COLOR_YELLOW = "\033[93m"
@@ -137,6 +151,84 @@ def check_local_notes(repo_path):
         pass
     return False
 
+def check_env_files(repo_path):
+    """Detects if any .env or environment configuration files exist in the repository."""
+    env_names = {
+        ".env",
+        ".env.local",
+        ".env.production",
+        ".env.development",
+    }
+
+    try:
+        for root, dirs, files in os.walk(repo_path):
+            dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+            for filename in files:
+                if filename in env_names:
+                    return "check"
+    except Exception:
+        pass
+
+    return "none"
+
+def check_databases(repo_path):
+    """Detects if any SQLite database files exist in the repository."""
+    db_extensions = (
+        ".db",
+        ".sqlite",
+        ".sqlite3",
+    )
+
+    try:
+        for root, dirs, files in os.walk(repo_path):
+            dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+            for filename in files:
+                if filename.endswith(db_extensions):
+                    return "check"
+    except Exception:
+        pass
+
+    return "none"
+
+def check_docker(repo_path):
+    """Detects if the repository contains Docker or Compose configuration files."""
+    docker_files = {
+        "docker-compose.yml",
+        "docker-compose.yaml",
+        "compose.yml",
+        "compose.yaml",
+        "Dockerfile",
+    }
+
+    try:
+        for root, dirs, files in os.walk(repo_path):
+            dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+            if any(f in docker_files for f in files):
+                return "yes"
+    except Exception:
+        pass
+
+    return "no"
+
+def get_directory_size_mb(path):
+    """Calculates the physical size of important project data on disk in MB, skipping dependencies/builds."""
+    total = 0
+
+    try:
+        for root, dirs, files in os.walk(path):
+            dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+            for f in files:
+                fp = os.path.join(root, f)
+                try:
+                    total += os.path.getsize(fp)
+                except OSError:
+                    pass
+    except Exception:
+        return "unknown"
+
+    size_mb = round(total / (1024 * 1024))
+    return f"{size_mb}mb"
+
 def sanitize_project_name(name):
     """Sanitizes directory name to conform to todo.txt project tag naming rules."""
     clean_name = "".join(c if c.isalnum() or c == '-' else '-' for c in name.lower())
@@ -166,18 +258,39 @@ def scan_directory(base_path, context_tag, date_str):
         return tasks
 
     for entry in entries:
-        if not entry.is_dir():
+        if not entry.is_dir() or entry.name.startswith('.'):
             continue
             
         project_dir = entry.path
         project_name = entry.name
         clean_project_name = sanitize_project_name(project_name)
         
+        # Run general checks first
+        env_status = check_env_files(project_dir)
+        database_status = check_databases(project_dir)
+        docker_status = check_docker(project_dir)
+        size_status = get_directory_size_mb(project_dir)
+        
+        # Determine check colorizations
+        env_col = COLOR_YELLOW if env_status == "check" else COLOR_GREEN
+        db_col = COLOR_YELLOW if database_status == "check" else COLOR_GREEN
+        docker_col = COLOR_CYAN if docker_status == "yes" else COLOR_GREEN
+        
+        size_col = COLOR_GREEN
+        if size_status.endswith("mb"):
+            try:
+                size_mb = int(size_status[:-2])
+                if size_mb >= 2000:
+                    size_col = COLOR_RED
+                elif size_mb >= 500:
+                    size_col = COLOR_YELLOW
+            except ValueError:
+                pass
+        
         # Check if it is a git repo
         git_dir = os.path.join(project_dir, '.git')
         is_git = os.path.exists(git_dir) and os.path.isdir(git_dir)
         
-        # Determine status indicators
         if is_git:
             # 1. GitHub remote check
             remotes = run_git_command(project_dir, ['remote', '-v'])
@@ -195,35 +308,61 @@ def scan_directory(base_path, context_tag, date_str):
             notes_found = check_local_notes(project_dir)
             notes_status = "todo"
             
-            # Print status summary to console
+            # Colors for Git status metrics
             github_col = COLOR_GREEN if github_status == "ok" else COLOR_RED
             clean_col = COLOR_GREEN if clean_status == "ok" else (COLOR_YELLOW if clean_status == "untracked" else COLOR_RED)
             pushed_col = COLOR_GREEN if pushed_status == "ok" else (COLOR_YELLOW if pushed_status in ("no-remote", "no-commits") else COLOR_RED)
             notes_col = COLOR_CYAN if notes_found else COLOR_YELLOW
             
             notes_tip = " (notes found)" if notes_found else ""
+            
+            # First line: basic project identity and Git details
             print(f"  + {project_name:<25} "
                   f"git:yes | "
-                  f"github:{colorize(github_status, github_col):<11} | "
-                  f"clean:{colorize(clean_status, clean_col):<12} | "
-                  f"pushed:{colorize(pushed_status, pushed_col):<12} | "
-                  f"notes:{colorize(notes_status, notes_col)}{notes_tip}")
+                  f"github:{colorize(github_status.ljust(3), github_col)} | "
+                  f"clean:{colorize(clean_status.ljust(9), clean_col)} | "
+                  f"pushed:{colorize(pushed_status.ljust(10), pushed_col)} | "
+                  f"notes:{colorize(notes_status.ljust(4), notes_col)}{notes_tip}")
+            
+            # Second line: non-Git details (size, env, db, docker)
+            print(f"    {'':<25} "
+                  f"size:{colorize(size_status.ljust(8), size_col)} | "
+                  f"env:{colorize(env_status.ljust(5), env_col)} | "
+                  f"db:{colorize(database_status.ljust(5), db_col)} | "
+                  f"docker:{colorize(docker_status.ljust(3), docker_col)}")
                   
-            # Create todo.txt line: [date] Verify project +[project] github:[status] clean:[status] pushed:[status] notes:[status] @[context]
-            task_line = f"{date_str} Verify project +{clean_project_name} github:{github_status} clean:{clean_status} pushed:{pushed_status} notes:{notes_status} {context_tag}"
+            # Create todo.txt line
+            task_line = (f"{date_str} Verify project +{clean_project_name} github:{github_status} "
+                         f"clean:{clean_status} pushed:{pushed_status} notes:{notes_status} "
+                         f"env:{env_status} database:{database_status} docker:{docker_status} "
+                         f"size:{size_status} {context_tag}")
         else:
             notes_found = check_local_notes(project_dir)
             notes_status = "todo"
             notes_tip = " (notes found)" if notes_found else ""
             
+            na3 = "n/a".ljust(3)
+            na9 = "n/a".ljust(9)
+            na10 = "n/a".ljust(10)
+            
+            # First line: basic project identity
             print(f"  + {project_name:<25} "
                   f"git:{colorize('no', COLOR_YELLOW):<3} | "
-                  f"github:{colorize('n/a', COLOR_YELLOW):<11} | "
-                  f"clean:{colorize('n/a', COLOR_YELLOW):<12} | "
-                  f"pushed:{colorize('n/a', COLOR_YELLOW):<12} | "
-                  f"notes:{colorize(notes_status, COLOR_YELLOW)}{notes_tip}")
+                  f"github:{colorize(na3, COLOR_YELLOW)} | "
+                  f"clean:{colorize(na9, COLOR_YELLOW)} | "
+                  f"pushed:{colorize(na10, COLOR_YELLOW)} | "
+                  f"notes:{colorize(notes_status.ljust(4), COLOR_YELLOW)}{notes_tip}")
+            
+            # Second line: non-Git details (size, env, db, docker)
+            print(f"    {'':<25} "
+                  f"size:{colorize(size_status.ljust(8), size_col)} | "
+                  f"env:{colorize(env_status.ljust(5), env_col)} | "
+                  f"db:{colorize(database_status.ljust(5), db_col)} | "
+                  f"docker:{colorize(docker_status.ljust(3), docker_col)}")
                   
-            task_line = f"{date_str} Verify non-git project +{clean_project_name} git:no notes:{notes_status} {context_tag}"
+            task_line = (f"{date_str} Verify non-git project +{clean_project_name} git:no notes:{notes_status} "
+                         f"env:{env_status} database:{database_status} docker:{docker_status} "
+                         f"size:{size_status} {context_tag}")
             
         tasks.append(task_line)
         

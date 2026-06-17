@@ -5,7 +5,7 @@ x 2026-06-16 2026-06-16 Boot NixOS live environment +installation @desktop
 x 2026-06-16 2026-06-16 Inspect partition layout +installation @desktop
 x 2026-06-16 2026-06-16 Decide final partition strategy +installation @desktop
 x 2026-06-16 2026-06-16 Install NixOS +installation @desktop
-(B) Configure networking +installation @desktop
+x 2026-06-16 2026-06-16 Configure networking +installation @desktop
 x 2026-06-16 2026-06-16 Install Git +setup @desktop
 x 2026-06-16 2026-06-16 Install GitHub CLI +setup @desktop
 (C) Install Zed +setup @desktop
@@ -17,5 +17,10 @@ x 2026-06-16 2026-06-16 Install Docker/Docker Compose +setup @desktop
 (D) Learn flake basics +nix @desktop
 (E) Audit bash-custom repository +shell @laptop
 (E) Decide Bash vs Zsh +shell @laptop
-(E) Configure Hyprland +setup @desktop
+(B) Configure Hyprland/DMS +setup @desktop
 x 2026-06-16 2026-06-16 Create backup inventory document +pre-migration @desktop
+(B) Configure Git/GitHub credentials +setup @desktop
+(C) Install and configure Google Cloud CLI +setup @desktop
+(C) Install and configure direnv +setup @desktop
+(C) Install and configure starship +setup @desktop
+(C) Install and configure fastfetch +setup @desktop

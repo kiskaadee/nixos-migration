@@ -11,8 +11,8 @@ x 2026-06-16 2026-06-16 Install GitHub CLI +setup @desktop
 x 2026-06-16 2026-06-16 Install UV +setup @desktop
 x 2026-06-16 2026-06-16 Install Docker/Docker Compose +setup @desktop
 x 2026-06-16 2026-06-16 Create backup inventory document +pre-migration @desktop
-(A) Enable temporary system-level Hyprland and terminal (Bootstrap) +setup @desktop
-(A) Authenticate GitHub CLI imperatively (Bootstrap) +setup @desktop
+x 2026-06-17 2026-06-17 Enable temporary system-level Hyprland and terminal (Bootstrap) +setup @desktop
+x 2026-06-17 2026-06-17 Authenticate GitHub CLI imperatively (Bootstrap) +setup @desktop
 (B) Convert system configuration to Nix Flake +nix @desktop
 (B) Integrate Home Manager as a Flake module +nix @desktop
 (C) Declaratively configure Git, Starship, and Direnv via Home Manager +setup @desktop
@@ -21,4 +21,3 @@ x 2026-06-16 2026-06-16 Create backup inventory document +pre-migration @desktop
 (D) Install and configure Google Cloud CLI via Home Manager +setup @desktop
 (D) Audit bash-custom repository and decide Bash vs Zsh +shell @laptop
 (E) Install and configure fastfetch +setup @desktop
-
